@@ -1,5 +1,4 @@
-# devops_day-10_worklog
-# TASK 10: Docker Volumes & Networking
+# Docker Volumes & Networking
 
 ## Overview
 This task demonstrates Docker volumes for data persistence and Docker networking for container-to-container communication.               
